@@ -9,6 +9,6 @@
 ## Project Instruction:
 1) Clone this project from gitub
 2) Navigate to the starter_code directory
-3) run make all
-4) type ./scrabble
+3) Run make all
+4) Type ./scrabble
 5) Have fun!
